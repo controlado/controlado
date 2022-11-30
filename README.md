@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/j5QB6Z2.png" width="300" height="300" />
 
-[![stats](https://github-readme-stats.vercel.app/api?username=escravo&show_icons=true&count_private=true&theme=blue&hide_border=false&custom_title=Check%20some%20stats!%20)](https://www.discord.gg/8DVKzDf9cZ)
+[![stats](https://github-readme-stats.vercel.app/api?username=controlado&show_icons=true&count_private=true&theme=blue&hide_border=false&custom_title=Check%20some%20stats!%20)](https://www.discord.gg/8DVKzDf9cZ)
 
 #
 
@@ -19,7 +19,7 @@
 #
 
 ### 🐬 Found me here!
-- ![social1](https://img.shields.io/static/v1?logo=GitHub&link=https://github.com/balasclava&label=&message=Balasclava&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+- ![social1](https://img.shields.io/static/v1?logo=GitHub&link=https://github.com/controlado&label=&message=Balasclava&color=white&logoColor=white&style=flat&labelColor=4f94ef)
 ![social2](https://img.shields.io/static/v1?logo=Discord&link=http://discordapp.com/users/854886148455399436&label=&message=Balaclava%231912&color=white&logoColor=white&style=flat&labelColor=4f94ef)
 - ![riot](https://img.shields.io/static/v1?logo=Quantcast&label=&message=What%20do%20I%20like%20to%20do?&color=white&logoColor=white&style=flat&labelColor=4f94ef)
 ![riot1](https://img.shields.io/static/v1?label=&message=Make%20some%20Discord%20Bots!&color=white&logoColor=white&style=flat)
@@ -33,6 +33,6 @@
   
   [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2)](https://wakatime.com/@89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2)
   
-  [![streak](http://github-readme-streak-stats.herokuapp.com?user=escravo&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/balasclava)
+  [![streak](http://github-readme-streak-stats.herokuapp.com?user=controlado&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFF&stroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB)](https://github.com/balasclava)
   
 </details>
