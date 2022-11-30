@@ -1,4 +1,4 @@
-### 🐳 Be welcome to my Pythonic playground!
+### 🐳 Be welcome to my playground!
 
 <img align="right" src="https://i.imgur.com/j5QB6Z2.png" width="300" height="300" />
 
