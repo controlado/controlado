@@ -13,16 +13,20 @@
 ![lang1](https://img.shields.io/static/v1?label=&message=Portuguese&color=white&logoColor=white&style=flat)
 ![lang2](https://img.shields.io/static/v1?label=&message=English&color=white&logoColor=white&style=flat)
 - ![languages](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=white&logoColor=white&style=flat&labelColor=4f94ef)
-![languages1](https://img.shields.io/static/v1?logo=Windows%20XP&label=&message=Windows&color=white&logoColor=white&style=flat&labelColor=4f94ef)
-![languages3](https://img.shields.io/static/v1?logo=Visual%20Studio%20Code&label=&message=Visual%20Studio%20Code&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+![languages](https://img.shields.io/static/v1?logo=MongoDB&label=&message=MongoDB&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+![languages](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+- ![languages](https://img.shields.io/static/v1?logo=Windows%20XP&label=&message=Windows&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+![languages](https://img.shields.io/static/v1?logo=PyCharm&label=&message=PyCharm&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+![languages](https://img.shields.io/static/v1?logo=Visual%20Studio%20Code&label=&message=VS%20Code&color=white&logoColor=white&style=flat&labelColor=4f94ef)
 
 #
 
 ### 🐬 Found me here!
-- ![social1](https://img.shields.io/static/v1?logo=GitHub&link=https://github.com/controlado&label=&message=Controlado&color=white&logoColor=white&style=flat&labelColor=4f94ef)
-![social2](https://img.shields.io/static/v1?logo=Discord&link=http://discordapp.com/users/854886148455399436&label=&message=Balaclava%231912&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+- ![social](https://img.shields.io/static/v1?logo=GitHub&link=https://github.com/controlado&label=&message=Controlado&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+- ![social](https://img.shields.io/static/v1?logo=Discord&link=http://discordapp.com/users/854886148455399436&label=&message=Balaclava%231912&color=white&logoColor=white&style=flat&labelColor=4f94ef)
+![social](https://img.shields.io/static/v1?label=&message=854886148455399436&color=white&logoColor=white&style=flat)
 - ![riot](https://img.shields.io/static/v1?logo=Quantcast&label=&message=What%20do%20I%20like%20to%20do?&color=white&logoColor=white&style=flat&labelColor=4f94ef)
-![riot1](https://img.shields.io/static/v1?label=&message=Make%20some%20Discord%20Bots!&color=white&logoColor=white&style=flat)
+![riot](https://img.shields.io/static/v1?label=&message=Make%20some%20Discord%20Bots!&color=white&logoColor=white&style=flat)
 
 #
 
