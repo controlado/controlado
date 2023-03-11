@@ -1,7 +1,5 @@
 ### 🐳 Welcome and take a seat!
 
-<img align="right" src="https://i.imgur.com/j5QB6Z2.png" width="300" height="300">
-
 </details>
 <details>
   <summary>View stats (Tracking since: 03/15/2022) </summary>
