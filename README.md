@@ -1,9 +1,7 @@
 ### 🐳 Welcome and take a seat!
 
 <details>
-  <summary> View stats (Tracking since: 03/15/2022) </summary>
-
-  Click on the cards to see their repositories.
+  <summary> View stats (Tracking since: 03/15/2022) </summary></br>
 
   [![1](https://github-readme-stats.vercel.app/api?username=controlado&card_width=495&hide_title=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
