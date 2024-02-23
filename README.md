@@ -3,11 +3,11 @@
 <details>
   <summary> View stats (Tracking since: 03/15/2022) </summary></br>
 
-  [![1](https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![1](/assets/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![1](https://readme-github-stats-flame.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2&langs_count=5&hide_title=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+  [![1](/assets/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![1](https://github-readme-streak-stats.herokuapp.com?user=controlado&theme=github-dark-blue&hide_border=true&background=FFFFFF&stroke=2E80EC&currStreakLabel=2E80EC&sideNums=2E80EC&sideLabels=2E80EC&currStreakNum=2E80EC)](https://github.com/denvercoder1/github-readme-streak-stats)
+  [![1](/assets/wakatime.svg)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 </details>
 
