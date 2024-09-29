@@ -149,11 +149,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >1,237 hrs 9 mins</text>
+      >1,238 hrs 46 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="78.41%">
+      <svg data-testid="lang-progress" width="78.44%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="13.35%">
+      <svg data-testid="lang-progress" width="13.34%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -218,7 +218,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >41 hrs 43 mins</text>
+      >41 hrs 54 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -245,7 +245,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="2.17%">
+      <svg data-testid="lang-progress" width="2.16%">
         <rect
             height="8"
             fill="#2f80ed"
