@@ -1,4 +1,4 @@
-<p style="text-align: right; margin-bottom: -45px">
+<p align="right" style="margin-bottom: -45px">
   <a href="./README.md">🗂️ Read in English</a>
 </p>
 
@@ -22,7 +22,7 @@
   </p>
 </details>
 
----
+#
 
 <h3>🔬 Quem é @controlado?</h3>
 
@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/static/v1?logo=Google%20Maps&logoColor=white&label=Local&labelColor=4f94ef&message=Brazil&color=white&style=flat" alt="Localização" style="margin-right: 5px;">
 </p>
 
----
+#
 
 <h3>📡 Contato</h3>
 
