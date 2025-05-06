@@ -1,10 +1,8 @@
-<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-bottom: -10px;"> <tr>
-    <td style="width: 50%;"> <h3>🐳 Welcome!</h3>
-    </td>
-    <td style="width: 50%; text-align: right; vertical-align: middle;"> <a href="./README-PT.md">🗂️ Ler em Português</a>
-    </td>
-  </tr>
-</table>
+<p style="text-align: right; margin-bottom: -45px">
+  <a href="./README-PT.md">🗂️ Ler em Português</a>
+</p>
+
+<h3>🐳 Welcome!</h3>
 
 <details>
   <summary>Statistics</summary>
