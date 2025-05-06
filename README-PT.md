@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/static/v1?logo=Python&logoColor=white&label=&labelColor=4f94ef&message=Python&color=white&style=flat" alt="Python">
   <br>
   <img src="https://img.shields.io/static/v1?logo=Google%20Translate&logoColor=white&label=Idiomas&labelColor=4f94ef&message=PT-BR%20%20EN&color=white&style=flat" alt="Idiomas">
-  <img src="https://img.shields.io/static/v1?logo=Google%20Maps&logoColor=white&label=Localização&labelColor=4f94ef&message=Brazil&color=white&style=flat" alt="Localização" style="margin-right: 5px;">
+  <img src="https://img.shields.io/static/v1?logo=Google%20Maps&logoColor=white&label=Local&labelColor=4f94ef&message=Brazil&color=white&style=flat" alt="Localização" style="margin-right: 5px;">
 </p>
 
 ---
