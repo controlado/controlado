@@ -9,15 +9,15 @@
   <br>
   <p>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img src="./assets/wakatime.svg" alt="GitHub Streak" style="margin-right: 5px;">
+      <img src="./assets/github_stats.svg" alt="GitHub Streak" style="margin-right: 5px;">
     </a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="./assets/stats.svg" alt="GitHub Statistics" style="margin-right: 5px;">
+      <img src="./assets/wakatime_top_langs.svg" alt="GitHub Statistics" style="margin-right: 5px;">
     </a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="./assets/top-langs.svg" alt="Most used languages">
+      <img src="./assets/streak_stats.svg" alt="Most used languages">
     </a>
   </p>
 </details>
