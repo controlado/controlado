@@ -13,23 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     name: Download/upload assets
     steps:
-      - name: "Download: stats.svg"
-        run: curl -sL "https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" -o stats.svg
+      - name: "Download: github_stats.svg"
+        run: curl -sL "https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" -o github_stats.svg
       
-      - name: "Download: top-langs.svg"
-        run: curl -sL "https://readme-github-stats-flame.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2&langs_count=5&hide_title=true&range=all_time" -o top-langs.svg
+      - name: "Download: wakatime_top_langs.svg"
+        run: curl -sL "https://readme-github-stats-flame.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2&langs_count=5&hide_title=true&range=all_time" -o wakatime_top_langs.svg
 
-      - name: "Download: wakatime.svg"
-        run: curl -sL "https://github-readme-streak-stats.herokuapp.com?user=controlado&theme=github-dark-blue&hide_border=true&background=FFFFFF&stroke=2E80EC&currStreakLabel=2E80EC&sideNums=2E80EC&sideLabels=2E80EC&currStreakNum=2E80EC" -o wakatime.svg
+      - name: "Download: streak_stats.svg"
+        run: curl -sL "https://github-readme-streak-stats.herokuapp.com?user=controlado&theme=github-dark-blue&hide_border=true&background=FFFFFF&stroke=2E80EC&currStreakLabel=2E80EC&sideNums=2E80EC&sideLabels=2E80EC&currStreakNum=2E80EC" -o streak_stats.svg
 
       - name: Upload assets
         uses: actions/upload-artifact@v4
         with:
           name: assets
           path: |
-            stats.svg
-            top-langs.svg
-            wakatime.svg
+            github_stats.svg
+            wakatime_top_langs.svg
+            streak_stats.svg
 
   push-assets:
     needs: download-assets
