@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">balaclava's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  : 59, Total PRs: 15, Total Issues: 20, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  : 59, Total PRs: 15, Total Issues: 23, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 115.91108352609913;
+        stroke-dashoffset: 115.61305243012538;
       }
     }
   
@@ -157,7 +157,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1.6k</text>
+      >1.7k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >20</text>
+      >23</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
