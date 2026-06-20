@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="59.66%">
+      <svg data-testid="lang-progress" width="59.62%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="24.6%">
+      <svg data-testid="lang-progress" width="24.58%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -199,7 +199,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="11.4%">
+      <svg data-testid="lang-progress" width="11.39%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -222,7 +222,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="2.06%">
+      <svg data-testid="lang-progress" width="2.05%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -236,16 +236,16 @@
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Other">Other:</text>
+      <text class="stat bold" y="12.5" data-testid="Markdown">Markdown:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >50 hrs 30 mins</text>
+      >52 hrs 36 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="2%">
+      <svg data-testid="lang-progress" width="2.02%">
         <rect
             height="8"
             fill="#2f80ed"
